@@ -3,14 +3,13 @@
 
 
 ### ~ 
-for home directory
+    for home directory
 
 ### ^
     control on keyboard
 
 ### ctrl + c 
     terminate the program
-
 
 ### ls/ls -a
     list files/list files including hidden files
